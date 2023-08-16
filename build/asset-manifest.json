@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.c4cd3fd3.js",
+    "static/js/787.8221c94a.chunk.js": "/static/js/787.8221c94a.chunk.js",
+    "static/media/moose.png": "/static/media/moose.d1f855a1411abb57f5c6.png",
+    "static/media/logo.png": "/static/media/logo.6a1fbdf008a02d71a1db.png",
+    "static/media/euler.png": "/static/media/euler.2967f790f7a59ee2733b.png",
+    "static/media/openist.jpg": "/static/media/openist.e8b0834042af15fd9036.jpg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.c4cd3fd3.js.map": "/static/js/main.c4cd3fd3.js.map",
+    "787.8221c94a.chunk.js.map": "/static/js/787.8221c94a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c4cd3fd3.js"
+  ]
+}
